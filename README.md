@@ -1,6 +1,6 @@
 <h1>Hello-World</h1>
 
-<h2>This is a code sample</h2>
+<h2>This is a [CAPABILITY] code sample</h2>
 
 <h3>These are the steps:</h3>
 
