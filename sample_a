@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+            <title>Navigational Scheme</title>
+            <link href="http://testassets.openapi.starbucks.com/css/default-screen-min.css" media="screen" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+
+
+
+<!--================NO COPYING FROM ABOVE=========================-->
+
+
+<!--CUSTOM NAVIGATION-->
+<div id="custom_nav" role="navigation" aria-label="main">
+	<div class="container">
+		<div class="fields">
+			<div class="region size1of1">
+				<div id="api_nav" class="nav_fix">
+					<a href="#" id="nav_pull">Navigation</a>
+					<ul class="nav_fix" role="menubar" aria-hidden="false">
+						<li id="cap_link" class="first" role="menuitem" aria-haspopup="true">
+							<a href="/capabilities" class="top_level touch_space">Capabilities</a>
+							<ul class="submenu" aria-hidden="true" role="menu">
+								<li id="card_link" role="menuitem"><a href="/capabilities/card_management">Card Management</a></li>
+								<li id="company_link" role="menuitem"><a href="/capabilities/company_info">Company Info</a></li>
+								<li id="history_link" role="menuitem"><a href="/capabilities/integrated_history">Integrated History</a></li>
+								<li id="profile_link" role="menuitem"><a href="/capabilities/my_starbucks_profile">My Starbucks Profile</a></li>
+								<li id="product_link" role="menuitem"><a href="/capabilities/products">Products</a></li>
+								<li id="stores_link" role="menuitem"><a href="/capabilities/stores">Stores</a></li>
+							</ul>
+						</li>
+						<li id="docs_link" role="menuitem" aria-haspopup="true">
+							<a href="/docs/api_overview" class="top_level touch_space">Documentation</a>
+							<ul class="submenu" aria-hidden="true" role="menu">
+								<li id="versioning_link" role="menuitem"><a href="/docs/api_overview/versioning">Versioning</a></li>
+								<li id="rest_link" role="menuitem"><a href="/docs/api_overview/rest">REST</a></li>
+								<li id="practices_link" role="menuitem"><a href="/docs/api_overview/best_practices">Best Practices</a></li>
+								<li id="request_link" role="menuitem"><a href="/docs/api_overview/requests_responses">Requests and Responses</a></li>
+								<li id="error_link" role="menuitem"><a href="/docs/api_overview/error_codes">Error Codes</a></li>
+								<li id="oauth_link" role="menuitem"><a href="/docs/api_overview/oauth">OAuth</a></li>
+								<li id="fields_link" role="menuitem"><a href="/docs/api_overview/fields_adapter">Fields Adapter</a></li>
+								<li id="sbux_link" role="menuitem"><a href="/docs/starbucks_api">Starbucks API</a></li>
+							</ul>
+						</li>
+						<li id="status_link" role="menuitem" aria-haspopup="true">
+							<a href="/status" class="top_level touch_space">Status</a>
+							<ul class="submenu" aria-hidden="true" role="menu">
+								<li id="glitches_link" role="menuitem"><a href="/status/glitches">Glitches</a></li>
+								<li id="annc_link" role="menuitem"><a href="/status/announcements">Announcements</a></li>
+								<li id="changelog_link" role="menuitem"><a href="/status/changelog">Changelog</a></li>
+							</ul>
+						</li>
+						<li id="resources_link" role="menuitem" aria-haspopup="true">
+							<a href="/resources" class="top_level touch_space">Resources</a>
+							<ul class="submenu" aria-hidden="true" role="menu">
+								<li id="code_link" role="menuitem"><a href="/resources/code_samples">Code Samples</a></li>
+								<li id="branding_link" role="menuitem"><a href="/resources/branding_guidelines">Branding Guidelines</a></li>
+								<li id="faq_link" role="menuitem"><a href="/resources/faq">FAQ</a></li>
+								<li id="glossary_link" role="menuitem"><a href="/resources/glossary">Glossary</a></li>
+							</ul>
+						</li>
+						<li id="gallery_link"><a href="/gallery" class="top_level touch_space">Gallery</a></li>
+						<li id="discussion_link" class="nav_title" role="menuitem" aria-haspopup="true">
+							<a href="#" class="top_level">Discussion</a>
+							<ul class="submenu" aria-hidden="true" role="menu">
+								<li id="forum_link" role="menuitem"><a href="/forum">Forum</a></li>
+								<li id="blog_link" role="menuitem"><a href="/blog">Blog</a></li>
+								<li id="twitter_link" role="menuitem"><a href="http://twitter.com/starbucksapi" target="_blank">Twitter</a></li>
+							</ul>
+						</li>
+						<li id="forum_link_02" class="touch" role="menuitem"><a href="/forum" class="top_level touch_space">Forum</a></li>
+						<li id="blog_link_02" class="touch" role="menuitem"><a href="/blog" class="top_level touch_space">Blog</a></li>
+						<li id="twitter_link_02" class="touch" role="menuitem"><a href="http://twitter.com/starbucksapi" target="_blank" class="top_level touch_space">Twitter</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--END NAVIGATION-->
+
+
+
+<!--================NO COPYING FROM BELOW=========================-->
+
+	</body>
+</html>
